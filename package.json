@@ -1,0 +1,10 @@
+{
+  "name": "language-shellscript",
+  "version": "0.1.0",
+  "description": "Shell Script language support in SilkEdit",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:silkedit/language-shellscript.git"
+  },
+  "license": "MIT"
+}
